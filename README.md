@@ -1,6 +1,4 @@
 # 🌌 Planet Search Simulations
-
-## 📖 Project Description
 This project is focused on **planet/star search simulations**.  
 The goal is to **find and explore GitHub repositories** with planet tracking codes in Python, run them locally, and then **adapt them into an Object-Oriented (OOP) based system**.
 
